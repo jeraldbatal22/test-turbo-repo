@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "healthcare",
   "private": true,
   "scripts": {
     "build": "turbo run build",
